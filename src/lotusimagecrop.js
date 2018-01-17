@@ -38,7 +38,7 @@
 				return this.clip_height;
 			}
 
-			this.zoom = function()
+			this.getZoom = function()
 			{
 				return this.zoom;
 			}
